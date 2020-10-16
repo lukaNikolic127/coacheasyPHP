@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    background-color: #EEF1F5;
+}
+
+.container2 {
+    background-color: white;
+    padding-top: 50px;
+}
+
+.container3 {
+    background-color: #EEF1F5;
+    padding-top: 30px;
+}
+
+.container4 {
+    background-color: white;
+    padding-top: 30px;
+}
+
+.padding {
+	padding: 20px 0px;
+}
+
+.padding img {
+	width: 100%;
+}
+
+#order-btn {
+    background: #1ABCA6;
+    box-shadow: 0px 4px 8px rgba(77, 104, 132, 0.24);
+    border-radius: 28px;
+}
+
+
+.img-dim {
+    width: 278px;
+    height: 278px;
+}
+
+.par {
+    font-size: x-large;
+}
