@@ -3,9 +3,82 @@
     padding: 0;
     margin: 0;
 }
+/*
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+*/
+
+.body-order {
+    background-color: #EEF1F5;   
+}
+
+#order {
+    background-color: white;
+    border-radius: 15px;
+    width: 800px;
+    max-width: 100%;
+    border: 2px solid #b1a9a9;
+}
+
+.form {
+    padding: 30px 40px;
+}
+
+.form-control {
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    position: relative;
+    border: 0px;
+}
+
+.form-control label {
+    display: inline-block;
+    margin-bottom: 5px;
+}
+
+.form-control input {
+    border: 2px solid #b1a9a9;
+    border-radius: 5px;
+    display: block;
+    padding: 10px;
+    width: 100%;
+}
+
+.form-control input:focus {
+    border-color: #1ABCA6;
+}
+
+.form-control.success input {
+    border-color: #5adf42;
+}
+
+.form-control.error input {
+    border-color: #ff0000;
+}
+
+.form-control.error small {
+    visibility: visible;
+    color: #ff0000;
+}
+
+.form-control small {
+    visibility: hidden;
+    position: absolute;
+    text-align: left;
+    width: 100%;
+    padding-bottom: 5px;
+}
 
 .container {
-    background-color: #EEF1F5;
+    /*background-color: #EEF1F5;*/
+}
+
+.first {
+    height: calc(100vh-86px);
 }
 
 .container2 {
@@ -24,19 +97,29 @@
 }
 
 .padding {
-	padding: 20px 0px;
+    padding: 20px 0px;
+    margin-bottom: 0;
 }
 
 .padding img {
 	width: 100%;
 }
-
+/*
 #order-btn {
     background: #1ABCA6;
+    border-color: #1ABCA6;
     box-shadow: 0px 4px 8px rgba(77, 104, 132, 0.24);
     border-radius: 28px;
 }
+*/
 
+.btn {
+    background: #1ABCA6;
+    border-color: #1ABCA6;
+    box-shadow: 0px 4px 8px rgba(77, 104, 132, 0.24);
+    border-radius: 28px;
+    color: white;
+}
 
 .img-dim {
     width: 278px;
