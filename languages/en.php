@@ -32,7 +32,7 @@
         "section5-2" => "Players have the ability to rate certain training parameters and give their perspective on the training quality both from physical and mental perspective. Based on this, valuable reports are generated that help making future corrections and better training planning in the future.",
         "section6-1" => "Top-notch reports at all <br> times",
         "section6-2" => "Coaches and management have <br> outstanding reports on both team and <br> individual performance at all time. <br> Reports are very intuitive and easily <br> readable plus they are showing <br> important information in real time that <br> are necessary for optimal team <br> management.",
-        "section7-1" => "Order Coach Easy App and use it completely free for 2 months!",
+        "section7-1" => "Order Coach Easy App for free and raise the bar of your team performance!",
         "section7-2" => "Our team is at your disposal at all times during initial app setup. We are there to onboard your coaches <br> and management to properly use the app and create meaningful reports that help you thrive!",
         "order-form" => "Fill in this survey so that we can get in touch and <br> create initial account on your behalf",
         "thank-you" => "Thank you! We’ll get in touch soon.",

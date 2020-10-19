@@ -42,8 +42,8 @@
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
           <a class="dropdown-item" href="index.php?lang=en"><?php echo $lang['english'] ?></a>
           <a class="dropdown-item" href="index.php?lang=sr"><?php echo $lang['serbian'] ?></a>
-          <a class="dropdown-item" href="#"><?php echo $lang['hungarian'] ?></a>
-          <a class="dropdown-item" href="#"><?php echo $lang['german'] ?></a>
+          <a class="dropdown-item" href="index.php?lang=hu"><?php echo $lang['hungarian'] ?></a>
+          <a class="dropdown-item" href="index.php?lang=ge"><?php echo $lang['german'] ?></a>
         </div>
       </li>
     </ul>
